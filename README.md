@@ -23,7 +23,7 @@ pip install pandas matplotlib cassandra-driver tkinter
 
 
 
-3. Place the `secure-connect-dcbdms-lag.zip` and `babaniyilawal@yahoo.com-token.json` files in the same directory as the script.
+3. Place the `secure-connect-dcbdms-lag.zip` and `DCBDMS_LAG-token.json` files in the same directory as the script.
 
 ## Usage
 
